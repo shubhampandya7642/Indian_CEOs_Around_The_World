@@ -1,0 +1,27 @@
+img{
+    border-radius: 20px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+h2{
+    margin: 12px 0px;
+}
+
+.style {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main{
+    margin-top: 60px;
+}
+
+.text{
+    margin: 0px 20px;
+}
+
+p, li{
+    font-size: large;
+}
